@@ -1,5 +1,4 @@
-# Android Project 6 - *Name of App Here*
-
+# Android Project 6 - BitFit-2
 Submitted by: Akhil Kumar Ajitha
 
 BitFit-2 is a health metrics app that allows users to track calorie consumption. 
